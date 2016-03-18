@@ -1,0 +1,22 @@
+{
+  "name": "angular-musiclibrary",
+  "version": "1.0.0",
+  "description": "An Angular JS music library service",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-aomondi/angular-musiclibrary.git"
+  },
+  "author": "Amos Omondi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-aomondi/angular-musiclibrary/issues"
+  },
+  "homepage": "https://github.com/andela-aomondi/angular-musiclibrary#readme",
+  "dependencies": {
+    "bower": "^1.7.7"
+  }
+}

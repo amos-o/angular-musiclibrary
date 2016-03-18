@@ -1,0 +1,20 @@
+{
+  "name": "angular-musiclibrary",
+  "description": "An Angular JS music library service",
+  "main": "index.html",
+  "license": "ISC",
+  "homepage": "https://github.com/andela-aomondi/angular-musiclibrary",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.5.1"
+  }
+}
